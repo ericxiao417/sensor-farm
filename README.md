@@ -83,5 +83,3 @@ The web interface will be available at http://localhost:3000
 [Add contribution guidelines]
 
 This project was created for learning and demonstration purposes of building distributed systems with Go.
-
-Let me know if you would like me to expand or modify any section of the README.
